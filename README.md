@@ -4,11 +4,11 @@ Inicio trabajo final
 Grupo - Carnaval de Barranquilla
 
 ⋅⋅⋅Irene Ari:
-⋅⋅⋅Marjorie Martínez:
-⋅⋅⋅Daniela Minzer: gráfica, diagramación, síntesis de información y programación.
-⋅⋅⋅Constanza Montero: redacción, síntesis de información y programación.
-⋅⋅⋅Francisca Romo: 
-⋅⋅⋅Macarena Ruíz: redacción, tipografía, color y programación.
+Marjorie Martínez:
+Daniela Minzer: gráfica, diagramación, síntesis de información y programación.
+Constanza Montero: redacción, síntesis de información y programación.
+Francisca Romo: 
+Macarena Ruíz: redacción, tipografía, color y programación.
 
 Descirpción tema del curso: Carnavales Latinoamericanos
 ⋅⋅⋅La celebración de los carnavales es una de las expresiones artísticas y culturales más populares en América Latina. Decenas de ciudades de la región  albergan este festejo con su propia tradición, música, color así como también crítica social y presencia feminista. 
